@@ -45,3 +45,4 @@ class Operaciones:
     def mostrarResultado(self):
         print(self.resultado)
 
+#2
